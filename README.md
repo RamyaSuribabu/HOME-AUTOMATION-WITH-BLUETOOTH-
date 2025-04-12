@@ -14,3 +14,6 @@ Home Automation with Bluetooth is a project aimed at controlling various home ap
 The project typically involves connecting a Bluetooth module (e.g., HC-05 or HC-06) to an Arduino board, which acts as the central controller. The appliances are connected to the Arduino through relays, which act as switches to turn devices on or off. A mobile application or software is used to send commands to the Arduino via Bluetooth, allowing the user to control the appliances from a distance.
 
 The system operates by receiving commands through the Bluetooth module, processing these inputs with the Arduino, and activating or deactivating the connected appliances accordingly. This project is a stepping stone towards creating a smart home environment, offering an affordable and accessible way to automate tasks.
+
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/0a0688d4-0e85-44b8-9e89-8ab3a6258417)
